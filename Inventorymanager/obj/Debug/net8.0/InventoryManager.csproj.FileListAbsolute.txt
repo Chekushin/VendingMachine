@@ -1,0 +1,14 @@
+D:\RiderProjects\Inventorymanager\InventoryManager\bin\Debug\net8.0\InventoryManager.exe
+D:\RiderProjects\Inventorymanager\InventoryManager\bin\Debug\net8.0\InventoryManager.deps.json
+D:\RiderProjects\Inventorymanager\InventoryManager\bin\Debug\net8.0\InventoryManager.runtimeconfig.json
+D:\RiderProjects\Inventorymanager\InventoryManager\bin\Debug\net8.0\InventoryManager.dll
+D:\RiderProjects\Inventorymanager\InventoryManager\bin\Debug\net8.0\InventoryManager.pdb
+D:\RiderProjects\Inventorymanager\InventoryManager\obj\Debug\net8.0\InventoryManager.GeneratedMSBuildEditorConfig.editorconfig
+D:\RiderProjects\Inventorymanager\InventoryManager\obj\Debug\net8.0\InventoryManager.AssemblyInfoInputs.cache
+D:\RiderProjects\Inventorymanager\InventoryManager\obj\Debug\net8.0\InventoryManager.AssemblyInfo.cs
+D:\RiderProjects\Inventorymanager\InventoryManager\obj\Debug\net8.0\InventoryManager.csproj.CoreCompileInputs.cache
+D:\RiderProjects\Inventorymanager\InventoryManager\obj\Debug\net8.0\InventoryManager.dll
+D:\RiderProjects\Inventorymanager\InventoryManager\obj\Debug\net8.0\refint\InventoryManager.dll
+D:\RiderProjects\Inventorymanager\InventoryManager\obj\Debug\net8.0\InventoryManager.pdb
+D:\RiderProjects\Inventorymanager\InventoryManager\obj\Debug\net8.0\InventoryManager.genruntimeconfig.cache
+D:\RiderProjects\Inventorymanager\InventoryManager\obj\Debug\net8.0\ref\InventoryManager.dll
