@@ -1,0 +1,14 @@
+D:\RiderProjects\ConsoleApp\FoodDeliverySystem\bin\Debug\net8.0\FoodDeliverySystem.exe
+D:\RiderProjects\ConsoleApp\FoodDeliverySystem\bin\Debug\net8.0\FoodDeliverySystem.deps.json
+D:\RiderProjects\ConsoleApp\FoodDeliverySystem\bin\Debug\net8.0\FoodDeliverySystem.runtimeconfig.json
+D:\RiderProjects\ConsoleApp\FoodDeliverySystem\bin\Debug\net8.0\FoodDeliverySystem.dll
+D:\RiderProjects\ConsoleApp\FoodDeliverySystem\bin\Debug\net8.0\FoodDeliverySystem.pdb
+D:\RiderProjects\ConsoleApp\FoodDeliverySystem\obj\Debug\net8.0\FoodDeliverySystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\RiderProjects\ConsoleApp\FoodDeliverySystem\obj\Debug\net8.0\FoodDeliverySystem.AssemblyInfoInputs.cache
+D:\RiderProjects\ConsoleApp\FoodDeliverySystem\obj\Debug\net8.0\FoodDeliverySystem.AssemblyInfo.cs
+D:\RiderProjects\ConsoleApp\FoodDeliverySystem\obj\Debug\net8.0\FoodDeliverySystem.csproj.CoreCompileInputs.cache
+D:\RiderProjects\ConsoleApp\FoodDeliverySystem\obj\Debug\net8.0\FoodDeliverySystem.dll
+D:\RiderProjects\ConsoleApp\FoodDeliverySystem\obj\Debug\net8.0\refint\FoodDeliverySystem.dll
+D:\RiderProjects\ConsoleApp\FoodDeliverySystem\obj\Debug\net8.0\FoodDeliverySystem.pdb
+D:\RiderProjects\ConsoleApp\FoodDeliverySystem\obj\Debug\net8.0\FoodDeliverySystem.genruntimeconfig.cache
+D:\RiderProjects\ConsoleApp\FoodDeliverySystem\obj\Debug\net8.0\ref\FoodDeliverySystem.dll

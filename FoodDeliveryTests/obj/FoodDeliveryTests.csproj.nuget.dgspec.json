@@ -1,0 +1,136 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\RiderProjects\\ConsoleApp\\FoodDeliveryTests\\FoodDeliveryTests.csproj": {}
+  },
+  "projects": {
+    "D:\\RiderProjects\\ConsoleApp\\FoodDeliverySystem\\FoodDeliverySystem.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\RiderProjects\\ConsoleApp\\FoodDeliverySystem\\FoodDeliverySystem.csproj",
+        "projectName": "FoodDeliverySystem",
+        "projectPath": "D:\\RiderProjects\\ConsoleApp\\FoodDeliverySystem\\FoodDeliverySystem.csproj",
+        "packagesPath": "C:\\Users\\chekushin\\.nuget\\packages\\",
+        "outputPath": "D:\\RiderProjects\\ConsoleApp\\FoodDeliverySystem\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\chekushin\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.416/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\RiderProjects\\ConsoleApp\\FoodDeliveryTests\\FoodDeliveryTests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\RiderProjects\\ConsoleApp\\FoodDeliveryTests\\FoodDeliveryTests.csproj",
+        "projectName": "FoodDeliveryTests",
+        "projectPath": "D:\\RiderProjects\\ConsoleApp\\FoodDeliveryTests\\FoodDeliveryTests.csproj",
+        "packagesPath": "C:\\Users\\chekushin\\.nuget\\packages\\",
+        "outputPath": "D:\\RiderProjects\\ConsoleApp\\FoodDeliveryTests\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\chekushin\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\RiderProjects\\ConsoleApp\\FoodDeliverySystem\\FoodDeliverySystem.csproj": {
+                "projectPath": "D:\\RiderProjects\\ConsoleApp\\FoodDeliverySystem\\FoodDeliverySystem.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.8.0, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.5.3, )"
+            },
+            "xunit.runner.visualstudio": {
+              "target": "Package",
+              "version": "[2.5.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.416/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
