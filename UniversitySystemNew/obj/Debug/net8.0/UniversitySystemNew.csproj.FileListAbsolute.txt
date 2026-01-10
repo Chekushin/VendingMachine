@@ -1,0 +1,14 @@
+D:\RiderProjects\UniversitySystemNew\UniversitySystemNew\bin\Debug\net8.0\UniversitySystemNew.exe
+D:\RiderProjects\UniversitySystemNew\UniversitySystemNew\bin\Debug\net8.0\UniversitySystemNew.deps.json
+D:\RiderProjects\UniversitySystemNew\UniversitySystemNew\bin\Debug\net8.0\UniversitySystemNew.runtimeconfig.json
+D:\RiderProjects\UniversitySystemNew\UniversitySystemNew\bin\Debug\net8.0\UniversitySystemNew.dll
+D:\RiderProjects\UniversitySystemNew\UniversitySystemNew\bin\Debug\net8.0\UniversitySystemNew.pdb
+D:\RiderProjects\UniversitySystemNew\UniversitySystemNew\obj\Debug\net8.0\UniversitySystemNew.GeneratedMSBuildEditorConfig.editorconfig
+D:\RiderProjects\UniversitySystemNew\UniversitySystemNew\obj\Debug\net8.0\UniversitySystemNew.AssemblyInfoInputs.cache
+D:\RiderProjects\UniversitySystemNew\UniversitySystemNew\obj\Debug\net8.0\UniversitySystemNew.AssemblyInfo.cs
+D:\RiderProjects\UniversitySystemNew\UniversitySystemNew\obj\Debug\net8.0\UniversitySystemNew.csproj.CoreCompileInputs.cache
+D:\RiderProjects\UniversitySystemNew\UniversitySystemNew\obj\Debug\net8.0\UniversitySystemNew.dll
+D:\RiderProjects\UniversitySystemNew\UniversitySystemNew\obj\Debug\net8.0\refint\UniversitySystemNew.dll
+D:\RiderProjects\UniversitySystemNew\UniversitySystemNew\obj\Debug\net8.0\UniversitySystemNew.pdb
+D:\RiderProjects\UniversitySystemNew\UniversitySystemNew\obj\Debug\net8.0\UniversitySystemNew.genruntimeconfig.cache
+D:\RiderProjects\UniversitySystemNew\UniversitySystemNew\obj\Debug\net8.0\ref\UniversitySystemNew.dll
